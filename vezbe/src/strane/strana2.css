@@ -1,0 +1,30 @@
+
+
+#wraper{
+    width: 100%;
+    background-image:url( './slike/4880206.jpg');
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    display:block;
+ text-align: center;
+    padding: 10px 10px;
+
+}
+p{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: 250px;
+    border-radius: 16px;
+    border: solid black 1px;
+  
+}
